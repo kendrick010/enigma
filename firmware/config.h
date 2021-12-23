@@ -5,8 +5,8 @@
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x0001
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    enigma
-#define PRODUCT         enigma
+#define MANUFACTURER    ken010
+#define PRODUCT         KEN010_KEYBOARD
 
 /* key matrix size */
 #define MATRIX_ROWS 5
